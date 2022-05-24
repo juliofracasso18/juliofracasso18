@@ -2,7 +2,7 @@
 - 👋 opa meu nome e @juliofracasso18
 - 🛠 meu email julio.fracasso@escola.pr.gov.br 
 - 👷‍♂️ aprendendo a progamar JavaSript e Scratch
-- 
+- ista @julio_fracasso
 
 <!---
 juliofracasso18/juliofracasso18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
